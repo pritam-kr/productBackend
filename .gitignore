@@ -1,0 +1,8 @@
+# Ignore virtual environment folders
+venv/
+
+# Ignore cache or temporary folders
+__pycache__/
+
+# Ignore user-specific folder (e.g., for VSCode settings)
+.vscode/
